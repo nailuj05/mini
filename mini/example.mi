@@ -1,0 +1,7 @@
+# square function # square a = a * a;
+
+# sum function
+sum a b = a + b;
+
+# main entry point
+main = sum (square 3) (square 4);
